@@ -1,0 +1,40 @@
+.card img{
+    height: 350px;
+    width: 300px;
+}
+.card{
+    margin: 10px;
+    width: 300px;
+}
+.top{
+    background-color: green;
+    
+    padding: 30px;
+}
+.bottom{
+    background-color: brown;
+    
+    padding: 30px;
+}
+.special {
+    width: 400px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+.navbar {
+    padding: .8rem;
+    background-color: grey;
+}
+.navbar-nav li {
+    padding-right: 50px ;
+    
+}
+.navbar-nav a{
+    color: Blue;
+}
+.nav-link{
+    font-size: 1.1em !important;
+    
+    
+}
